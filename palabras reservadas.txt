@@ -1,0 +1,1 @@
+Inicio, fin, leer y escribir son palabras reservadas y deben escribirse en minúscula.
