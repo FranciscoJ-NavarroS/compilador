@@ -1,7 +1,7 @@
 # compilador 
 Consigna:
 
-1.          Análisis Lexicográfico:
+1. Análisis Lexicográfico:
 
            1.1.          Identificar las palabras reservadas.
            1.2.          Construir diagrama de transiciones para reconocer los componentes léxicos del lenguaje.
@@ -11,7 +11,7 @@ Consigna:
            1.6.          Mostrar código generado por la herramienta.
            1.7.          Probar la ejecución de la entrada de estudio.
            
-2.          Análisis Sintáctico:
+2. Análisis Sintáctico:
 
            2.1.          Diseñar una gramática no ambigua del lenguaje.
            2.2.          Generar el árbol de análisis sintáctico de la entrada de estudio.
