@@ -42,10 +42,10 @@ Descripción general de nuestro compilador:
 ·Hay dos tipos de sentencias.
 
 ·Asignación: ID := expresión;
-La expresión es infinita y se construye con identificadores, constantes los operadores + y - los paréntesis están permitidos.Pueden estar o no.
+La expresión es infinita y se construye con identificadores, constantes los operadores + y - los paréntesis están permitidos. Pueden estar o no.
 
 ENTRADA/SALIDA:
 
-·Leer(lista de IDs);
-·Escribir(lista de expresiones)
+·Leer(lista de IDs).
+·Escribir(lista de expresiones).
 ·Cada sentencia termina con un punto y coma ; el cuerpo del programa está delimitado por inicio y fin.
