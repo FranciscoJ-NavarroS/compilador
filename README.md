@@ -47,5 +47,7 @@ La expresión es infinita y se construye con identificadores, constantes los ope
 ENTRADA/SALIDA:
 
 ·Leer(lista de IDs).
+
 ·Escribir(lista de expresiones).
+
 ·Cada sentencia termina con un punto y coma (;) el cuerpo del programa está delimitado por inicio y fin.
