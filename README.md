@@ -37,7 +37,7 @@ Descripción general de nuestro compilador:
 
 ·Todos los identificadores son declarados implícitamente y con una longitud de 32 caracteres.
 
-·Los ID deben comenzar con una letra y un están compuestos por letras y dígitos.
+·Los ID deben comenzar con una letra y están compuestos por letras y dígitos.
 
 ·Hay dos tipos de sentencias.
 
